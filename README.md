@@ -17,9 +17,3 @@ Here are some ideas to get you started:
 
 * 📝 Blog: <https://stormrise.github.io/>
 
-<a href="https://github.com/0xHJK">
-	<img src="https://github-readme-stats.vercel.app/api?username=stormrise&hide_border=true&theme=vue&show_icons=true&hide=contribs" height="160px">
-</a>
-<a href="https://github.com/0xHJK">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormrise&layout=compact&hide_border=true&theme=vue&show_icons=true" height="160px">
-</a>
